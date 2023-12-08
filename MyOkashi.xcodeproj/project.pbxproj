@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F7B0FBA2B22FC6E0001ECA0 /* OkashiData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F7B0FB92B22FC6E0001ECA0 /* OkashiData.swift */; };
 		0FCAC58A29FF892D001AA85A /* MyOkashiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCAC58929FF892D001AA85A /* MyOkashiApp.swift */; };
 		0FCAC58C29FF892D001AA85A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCAC58B29FF892D001AA85A /* ContentView.swift */; };
 		0FCAC58E29FF8930001AA85A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FCAC58D29FF8930001AA85A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F7B0FB92B22FC6E0001ECA0 /* OkashiData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OkashiData.swift; sourceTree = "<group>"; };
 		0FCAC58629FF892D001AA85A /* MyOkashi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyOkashi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FCAC58929FF892D001AA85A /* MyOkashiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyOkashiApp.swift; sourceTree = "<group>"; };
 		0FCAC58B29FF892D001AA85A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				0FCAC58929FF892D001AA85A /* MyOkashiApp.swift */,
 				0FCAC58B29FF892D001AA85A /* ContentView.swift */,
+				0F7B0FB92B22FC6E0001ECA0 /* OkashiData.swift */,
 				0FCAC58D29FF8930001AA85A /* Assets.xcassets */,
 				0FCAC58F29FF8930001AA85A /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FCAC58C29FF892D001AA85A /* ContentView.swift in Sources */,
+				0F7B0FBA2B22FC6E0001ECA0 /* OkashiData.swift in Sources */,
 				0FCAC58A29FF892D001AA85A /* MyOkashiApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
